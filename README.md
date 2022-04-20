@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# I am Ng Yee Ching, a final year undergraduate majoring in Computer Science at The Chinese University of Hong Kong.
+
 <!--
 **eching0519/eching0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
